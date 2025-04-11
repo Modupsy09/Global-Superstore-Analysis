@@ -8,6 +8,7 @@
 Global Superstore is a global online retailer based in New York, boasting a broad product catalogue and aiming to be a one-stop-shop for its customers. Global The superstore’s clientele, hailing from 147 different countries, can browse through an endless offering with more than 10,000 products. This large selection comprises three main categories: office supplies (e.g., staples), furniture (e.g., chairs), and technology (e.g., smartphones).
 
 **_Disclaimer_**: _All datasets and reports do not represent any company or super market, but just a practice dataset to demonstrate capabilities of power BI._
+
 Power Bi Concept Applied:
 
 ● Power Query 
